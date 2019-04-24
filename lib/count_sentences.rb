@@ -19,4 +19,6 @@ class String
   end
 end
 
-string = 
+string = "This, well, is a sentence. This is too!! And so is this, I think? Woo..."
+
+puts string.split(//)
