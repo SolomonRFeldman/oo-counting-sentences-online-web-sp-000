@@ -18,3 +18,5 @@ class String
     self.split().count
   end
 end
+
+string 
