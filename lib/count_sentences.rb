@@ -19,4 +19,4 @@ class String
   end
 end
 
-string 
+string = 
